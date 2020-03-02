@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "Display-Data-Handling-Events": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Display-Data-Handling-Events"
+    }
+  },
+  "defaultProject": "Display-Data-Handling-Events",
+  "cli": {
+    "analytics": "e35ee64e-37e2-42be-88b6-db3b7ab7012f"
+  }
 }
